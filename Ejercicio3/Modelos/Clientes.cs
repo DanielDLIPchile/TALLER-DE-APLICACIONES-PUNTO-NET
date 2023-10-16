@@ -6,5 +6,5 @@
         public string nombre { get; set; }
         public int edad { get; set; }
 
-    }
+    }//comentario para git hub
 }
